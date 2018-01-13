@@ -15,15 +15,6 @@ interesting [fork by cprezzi](https://github.com/cprezzi/grbl-servo) for servo s
 
 ***
 
-Major new features in Grbl V1.1 are:
-- Real-time Overrides
-- Jogging Mode
-- performance optimization
-
-If you want to check a detailed changelog, please visit Grbl [original repo](https://github.com/gnea/grbl).
-
-***
-
 * [Licensing](https://github.com/gnea/grbl/wiki/Licensing): Grbl is free software, released under the GPLv3 license.
 
 * For more information and help, check out grbl **[Wiki pages!](https://github.com/gnea/grbl/wiki)**
